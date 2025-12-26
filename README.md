@@ -56,7 +56,7 @@ The **Print post-processing parameters** script will automatically create entrie
 
 ----
 
-##### Other post-processing effects and cutscenes:
+#### Other post-processing effects and cutscenes:
 
 Some post-processing effects used in cutscenes (such as chromatic aberration, depth of field, custom vignetting, and other effects I may have missed) are not supported by this table.
 
