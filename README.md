@@ -38,15 +38,15 @@ The **Print post-processing parameters** script will automatically create entrie
 
 ![ac6pp_05](https://github.com/user-attachments/assets/b9a0318b-6f85-432b-9996-e7562b3f2eb8)
 
-- HDR (+ vignetting disabled):
+- HDR (+ vignetting) disabled:
 
 ![ac6pp_06](https://github.com/user-attachments/assets/32b1161a-5bbc-4e7d-b5bf-cce6e9915fa1)
 
-- Level correction (+ HDR + vignetting disabled):
+- Level correction (+ HDR + vignetting) disabled:
 
 ![ac6pp_07](https://github.com/user-attachments/assets/7d3b6ddd-c3be-4e76-8b01-3373ad24f888)
 
-- Draw distance and fog removed (+ level correction + HDR + vignetting disabled):
+- Draw distance and fog removed (+ level correction + HDR + vignetting) disabled:
 
 ![ac6pp_08](https://github.com/user-attachments/assets/c0a119ff-5faf-4747-af0a-db35fd438839)
 
