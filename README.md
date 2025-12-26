@@ -6,6 +6,8 @@ I was interested to see if it was possible to modify these effects to either red
 
 Unfortunately, the game's assets are compressed and encrypted so patching these files directly is not feasible (at least for me). Xenia Canary has support for game patches that are applied during runtime, so I gave it a shot to debug the executable, find the code that handles the post-processing and create a patch. However it turned out to be far too difficult for me so I decided to use Cheat Engine (CE) to achieve these goals as well make these values accessible to anyone interested in researching them.
 
+Besides modifying post-processing effects, I also included a script that will remove the clouds and the distance fog of the current stage, for if you ever wanted to get a better look at it.
+
 #### Download links:
 
 - Check the [releases]() section.
