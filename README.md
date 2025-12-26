@@ -30,7 +30,7 @@ The **Print post-processing parameters** script will automatically create entrie
 
 #### Examples:
 
-- Default image output:
+- Original image output:
 
 ![ac6pp_04](https://github.com/user-attachments/assets/82490310-45b7-463f-b6b9-b5fd17e24503)
 
