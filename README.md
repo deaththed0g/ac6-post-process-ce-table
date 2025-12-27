@@ -80,7 +80,7 @@ While the table is incompatible with the first type, it will work partially with
 
 #### Notes:
 
-- This table is only compatible with the NTSC-U release of the game with its title updates applied. To check if you have the right version (and to ensure it is updated), the Xenia menu bar should display the following string:
+- This table is only compatible with the NTSC-U release of the game with its title updates applied. To check if you have the right version (and to ensure it is updated), Xenia's top of the window should display the following string:
 
 	>[4E4D07D1 v0.0.2.8] ACE COMBAT 6
 
