@@ -10,7 +10,7 @@ Besides modifying post-processing effects, I also included a script that will re
 
 #### Download links:
 
-- Check the [releases]() section.
+- Check the [releases](https://github.com/deaththed0g/ac6-post-process-ce-table/releases) section.
 
 #### Required files and tools:
 
