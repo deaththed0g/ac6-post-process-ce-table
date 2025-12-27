@@ -34,7 +34,7 @@ The **Print post-processing parameters** script will automatically create entrie
 
 #### Examples:
 
-- Original image output:
+- Original image:
 
 ![ac6pp_04](https://github.com/user-attachments/assets/82490310-45b7-463f-b6b9-b5fd17e24503)
 
@@ -50,7 +50,7 @@ The **Print post-processing parameters** script will automatically create entrie
 
 ![ac6pp_07](https://github.com/user-attachments/assets/7d3b6ddd-c3be-4e76-8b01-3373ad24f888)
 
-- Draw distance and fog removed (+ level correction + HDR + vignetting) disabled:
+- Clouds and distance fog removed (+ level correction + HDR + vignetting) disabled:
 
 ![ac6pp_08](https://github.com/user-attachments/assets/c0a119ff-5faf-4747-af0a-db35fd438839)
 
