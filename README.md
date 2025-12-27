@@ -64,11 +64,11 @@ Some post-processing effects used in cutscenes (such as chromatic aberration, de
 
 There are two types of cutscenes that play depending on the situation:
 
-- Campaign/Scene Viewer Cutscenes: These play between missions or can be accessed via the SCENE VIEWER. The table will not work with these.
+- Cutscenes that play between missions in campaign mode or can be accessed via the SCENE VIEWER.
 
-- In-Engine/Mission Cutscenes: These play within a mission (e.g., the opening sequence or the Aigaion’s entrance in Mission 1). The table works partially with these.
+- Cutscenes that play within a mission (e.g., the opening sequence or the Aigaion’s entrance in Mission 1).
 
-While the table is incompatible with the first type, it functions partially during mission-integrated sequences.
+While the table is incompatible with the first type, it will work partially with the second one.
 
 ![ac6pp_01](https://github.com/user-attachments/assets/f8b6cf4e-774e-41be-aed6-f1449b3714de)
 
