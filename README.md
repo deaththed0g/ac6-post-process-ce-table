@@ -66,7 +66,7 @@ There are two types of cutscenes that play depending on the situation:
 
 - Cutscenes that play between missions in campaign mode or can be accessed via the SCENE VIEWER.
 
-- Cutscenes that play within a mission (e.g., the opening sequence or the Aigaion’s entrance in Mission 1).
+- Cutscenes that play within a mission (e.g., the opening sequence and the Aigaion’s entrance in Mission 1).
 
 While the table is incompatible with the first type, it will work partially with the second one.
 
