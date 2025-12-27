@@ -22,6 +22,8 @@ Besides modifying post-processing effects, I also included a script that will re
 
 #### Usage:
 
+[Click here](https://github.com/deaththed0g/Ace-Combat-Zero-The-Belkan-War-CE-repository/wiki) to get  a basic rundown on how to configure and use Cheat Engine.
+
 Load the game in Xenia Canary, attach the table to it then click on the **Click here to start** script. From there, click on the script for the effect you want to disable, or choose the option to view the post-processing values used in the current mission.
 
 Once activated, the scripts will apply the modifications while you are in a mission, or remain on standby until you enter a mission. They will also automatically disable if you close the emulator.
